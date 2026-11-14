@@ -1,0 +1,8 @@
+{
+  "name": "grill-restaurant-ordering-system",
+  "version": "1.0.0",
+  "description": "SE331 Capstone - Food Ordering and Management System (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
